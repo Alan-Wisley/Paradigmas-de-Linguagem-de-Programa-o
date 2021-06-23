@@ -1,0 +1,4 @@
+#!/bin/bash
+SCRIPT_PATH="/DirShell01.sh"
+
+"$SCRIPT_PATH"
